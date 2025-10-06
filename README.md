@@ -19,3 +19,11 @@ selezione figura e grandezza
 
 seconda pagina
 <img width="1680" height="1050" alt="Screenshot 2025-09-29 at 12 11 59 PM" src="https://github.com/user-attachments/assets/66fe8c17-2ac6-4074-89ad-a093d09c80c4" />
+
+#PAGINA CONVERSIONE MORSE
+
+pagina iniziale
+<img width="1772" height="1033" alt="Screenshot 2025-10-06 at 7 02 51 PM" src="https://github.com/user-attachments/assets/be03f074-d7a1-423e-83f8-f63f2e81c826" />
+
+pagina con conversione
+<img width="1772" height="1033" alt="Screenshot 2025-10-06 at 7 05 21 PM" src="https://github.com/user-attachments/assets/d880d38e-13a1-4221-bad9-748ad89f9618" />
