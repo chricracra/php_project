@@ -27,3 +27,12 @@ pagina iniziale
 
 pagina con conversione
 <img width="1772" height="1033" alt="Screenshot 2025-10-06 at 7 05 21 PM" src="https://github.com/user-attachments/assets/d880d38e-13a1-4221-bad9-748ad89f9618" />
+
+# LOCAL GRADE APP
+
+pagina iniziale 
+<img width="1792" height="1053" alt="Screenshot 2025-10-13 at 10 18 14 PM" src="https://github.com/user-attachments/assets/2d6c93a4-be85-4827-8682-f88a77b4e1ea" />
+
+pagina con la media
+<img width="1792" height="1053" alt="Screenshot 2025-10-13 at 10 18 23 PM" src="https://github.com/user-attachments/assets/d87ac507-dd0f-4d4e-8431-1a89c36e60db" />
+
